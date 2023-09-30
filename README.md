@@ -11,6 +11,8 @@ Data Warehouse and ETL Implementation are important topics in the world of data 
 * Airflow
 * GCP
 * Pentaho
+* DBeaver
 * Drawsql
 
 ## Deck
+<a href="https://drive.google.com/file/d/1SwN60pGX0DDKcAV-Y8C_Oms7SknP2kBx/view?usp=sharing"> Final-Project-Data-Engineer-VIX </a>
